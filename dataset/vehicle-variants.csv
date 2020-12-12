@@ -1,0 +1,112 @@
+id,modelId,modelFullName,name,leather,gearbox,engine,fuel,fuelTankSize,fuelMixt,fuelUrban,batteryVoltage,batteryAutonomy,horsePower,horsePowerFiscal
+1,1,ALFA ROMEO GIULIA,2.2 180 CH AT8,1,Automatic,Combustion,Diesel,52,4.2,5.3,,,179,9
+2,2,AUDI A4,2.0 TDI 150 STRONIC ADVANCED,1,Automatic,Combustion,Diesel,63,4.8,5.5,,,150,8
+3,3,AUDI A6,2.0 TDI ULTRA 190 STRONIC 7,0,Automatic,Combustion,Diesel,73,4.2,4.7,,,190,10
+4,4,AUDI A5,SPORTBACK 2.0 TDI 190 STRONIC 7,0,Automatic,Combustion,Diesel,40,4.3,4.9,,,190,10
+5,5,BMW SERIE 2 GT,Active Tourer I (F45) 216d 116ch Business Design,0,Manual,Combustion,Diesel,51,4,4.4,,,116,6
+6,6,BMW SERIE 3,318D 150 LOUNGE BVA8,1,Automatic,Combustion,Diesel,57,4.5,5.3,,,150,8
+7,7,BMW SERIE 5,518dA 150ch Business Design Euro6d-T,1,Automatic,Combustion,Diesel,66,4.4,5,,,150,8
+8,8,BMW SERIE 7,730D 265 BVA8,1,Automatic,Combustion,Diesel,78,4.7,5.5,,,265,15
+9,9,FIAT Tipo Station Wagon (SW),1.6 MULTIJET 120 EASY,0,Manual,Combustion,Diesel,50,3.7,4.4,,,120,6
+10,10,FIAT Tipo Berline,1.6 MULTIJET 120 CH EASY,0,Manual,Combustion,Diesel,45,4.2,5.2,,,120,6
+11,11,FORD Mondeo Vignale,Ford MONDEO IV 2.0 TDCI 180 POWERSHIFT I-AWD,1,Automatic,Combustion,Diesel,63,5.3,6.1,,,180,10
+12,12,FORD Mondeo Titanium - Cuir,IV 2.0 TDCI 150 ST-LINE POWERSHIFT 5P,1,Automatic,Combustion,Diesel,63,5.4,6.1,,,150,8
+13,13,FORD Focus SW,III 1.5 TDCi 120ch Stop&Start Trend,0,Manual,Combustion,Diesel,53,3.8,4.3,,,120,6
+14,14,INFINITI Q50,2.2 D 170 BUSINESS EXECUTIVE 7AT,1,Automatic,Combustion,Diesel,74,4.5,5.7,,,170,9
+15,15,JAGUAR XE,2.0D 180ch BVA8,1,Automatic,Combustion,Diesel,56,4.2,5,,,180,9
+16,16,JAGUAR XF,II 2.0D 180 9CV PRESTIGE,1,Automatic,Combustion,Diesel,66,4.3,5.1,,,180,9
+17,17,LEXUS IS 300,Diesel,1,Automatic,Combustion,Diesel,,5.8,,,,,
+18,18,MAZDA 6,III 2.2 SKYACTIV-D 150 Dynamique BVA,0,Automatic,Combustion,Diesel,62,4.8,6,,,150,8
+19,18,MAZDA 6,III 2.5 SKYACTIV-G 192 Sélection BVA,0,Automatic,Combustion,Petrol,62,6.3,8.5,,,192,11
+20,19,MERCEDES Classe V,II 250 d Compact 4Matic 7G-Tronic Plus,1,Automatic,Combustion,Diesel,70,6.6,7.5,,,190,11
+21,19,MERCEDES Classe V,II 200 d Compact Business Executive 4Matic 7G-Tronic Plus,1,Automatic,Combustion,Diesel,70,6.6,7.5,,,136,8
+22,20,MERCEDES CLA,I (C117) 180 d Sensation 7G-DCT,1,Automatic,Combustion,Diesel,50,4,4.6,,,109,5
+23,21,MERCEDES Classe C,200d 136ch 9G Tronic 2.2L,1,Automatic,Combustion,Diesel,66,4.1,4.8,,,136,7
+24,21,MERCEDES Classe C,200 D 150ch 9G-Tronic AMG Line,1,Automatic,Combustion,Diesel,66,4.4,5.3,,,150,8
+25,21,MERCEDES Classe C,220 BlueTEC Sportline 7G-Tronic Plus,1,Automatic,Combustion,Diesel,66,4.4,5.4,,,170,9
+26,22,MERCEDES Classe E,250 BVA,1,Automatic,Combustion,Diesel,66,5.3,6.4,,,204,11
+27,22,MERCEDES Classe E,220 D Executive-Sportline,1,Automatic,Combustion,Diesel,66,5.1,5.9,,,194,11
+28,22,MERCEDES Classe E,E 200 D 156ch 9G Tronic 2.2L,1,Automatic,Combustion,Diesel,66,4.7,5.5,,,150,8
+29,22,MERCEDES Classe E,200 D 136ch BlueTEC BVA,1,Automatic,Combustion,Diesel,80,4.7,5.6,,,136,7
+30,23,MERCEDES Classe S,VII 350 BLUETEC 4MATIC,1,Automatic,Combustion,Diesel,70,5.9,7.4,,,130,16
+31,23,MERCEDES Classe S,VII 350 BLUETEC EXECUTIVE,1,Automatic,Combustion,Diesel,70,5.7,7.2,,,258,15
+32,24,NISSAN Leaf 2018,II 150ch 40kWh Visia Business,1,Automatic,Electric,,,,,40,275,,
+33,25,OPEL ASTRA TOURER (GT),II 1.6 CDTI 136ch,1,Automatic,Combustion,Diesel,48,3.9,4.7,,,136,7
+34,26,OPEL INSIGNIA,1.6 CDTI 136 CH ECOFLEX,1,Manual,Combustion,Diesel,70,3.9,4.7,,,136,7
+35,27,OPEL INSIGNIA Grand Sport,II 1.6 D 136ch Elite Auto,1,Automatic,Combustion,Diesel,62,5.1,6.1,,,136,7
+36,28,PEUGEOT 508,1.6 BlueHDI 120 Active Business,1,Automatic,Combustion,Diesel,72,3.8,4;3,,,120,6
+37,28,PEUGEOT 508,II 1.5 BLUEHDI 130 S&S ALLURE EAT8,1,Automatic,Combustion,Diesel,55,3.7,4.4,,,130,6
+38,28,PEUGEOT 508,1.6 e-HDi 115ch FAP Allure ETG6,1,Automatic,Combustion,Diesel,72,4,4.6,,,115,6
+39,28,PEUGEOT 508,2.0 BlueHDi 150ch FAP Féline,1,Manual,Combustion,Diesel,72,4.1,4.9,,,150,7
+40,29,RENAULT Talisman,I (LFD) 1.6 dCi 130ch energy Zen - Tissu,0,Manual,Combustion,Diesel,52,3.9,4.5,,,130,6
+41,29,RENAULT Talisman,I (LFD) 1.6 dCi 160ch energy Initiale Paris EDC - Tissu,0,Automatic,Combustion,Diesel,47,4.4,5,,,160,8
+42,29,RENAULT Talisman,1.6 DCI 130 ENERGY ZEN - Cuir,1,Manual,Combustion,Diesel,52,3.9,4.5,,,130,6
+43,29,RENAULT Talisman,I (LFD) 1.6 dCi 130ch energy Intens - Cuir,1,Automatic,Combustion,Diesel,52,3.9,4.5,,,130,6
+44,30,RENAULT Zoé,R90 EDITION ONE,1,Automatic,Electric,,,,,40,300,92,1
+45,30,RENAULT Zoé,R90 INTENS,0,Automatic,Electric,,,,,40,300,92,1
+46,31,SKODA SUPERB,1.6 TDI 120ch DSG7 - Cuir,1,Automatic,Combustion,Diesel,66,4.2,4.7,,,120,6
+47,31,SKODA SUPERB,1.6 TDI 120ch DSG7 - Tissu,0,Automatic,Combustion,Diesel,66,4.2,4.7,,,120,6
+48,31,SKODA SUPERB,III 2.0 TDI 150 Greentec Business DSG7 - Cuir,1,Automatic,Combustion,Diesel,66,4.5,5.4,,,150,8
+49,32,SKODA OCTAVIA,III 1.6 TDI 116ch CR FAP Business DSG7,1,Automatic,Combustion,Diesel,50,3.9,4.2,,,116,5
+50,33,TOYOTA Auris TS Hybride,HSD 136h Freestyle,1,Automatic,Hybrid,Petrol,45,4,3.9,,,98,5
+51,34,TOYOTA Prius, DYNAMIC HYBRID,1,Automatic,Hybrid,Petrol,43,3.6,3.5,,,122,4
+52,35,VOLKSWAGEN Passat,VIII 2.0 TDI 150ch BMT Carat DSG6 - Cuir,1,Automatic,Combustion,Diesel,66,4.4,5.2,,,150,8
+53,35,VOLKSWAGEN Passat,VIII 2.0 TDI 150ch BMT Carat DSG6 - Cuir,1,Automatic,Combustion,Diesel,70,4.6,5.4,,,105,6
+54,35,VOLKSWAGEN Passat,VIII 2.0 TDI 150ch BMT Carat DSG6 - Tissu,0,Automatic,Combustion,Diesel,70,4.6,5.4,,,105,6
+55,35,VOLKSWAGEN Passat,VIII 1.6 TDI 120 BMT,0,Manual,Combustion,Diesel,59,3.7,4.3,,,120,6
+56,36,VOLKSWAGEN Golf SW Business,VII 1.6 TDI 110ch BMT FAP Confortline Business DSG7,0,Automatic,Combustion,Diesel,50,4,4.5,,,110,5
+57,37,VOLKSWAGEN TIGUAN,2.0 TDI 115 Edition,0,Manual,Combustion,Diesel,58,4.7,5.7,,,115,6
+58,38,VOLVO S60 II,II D2 115ch Start&Stop Kinetic Business Powershift,0,Automatic,Combustion,Diesel,67,4.3,4.9,,,115,6
+59,39,TESLA Model S,P90 D,1,Automatic,Electric,,,,,100,613,539,10
+60,40,ALFA ROMEO STELVIO,2.2D 150CH AT8,1,Automatic,Combustion,Diesel,58,4.7,5.5,,,150,8
+61,41,AUDI A7,SPORTBACK V6 3.0 TDI 272 STRONIC 7 QUATTRO,1,Automatic,Combustion,Diesel,73,5.2,6,,,272,16
+62,42,AUDI Q5,2.0 TDI 150 ADVANCED,0,Manual,Combustion,Diesel,75,5.6,6.5,,,150,8
+63,43,BMW SERIE 3 TOURING,F31 LCI  330D XDRIVE 258 M,1,Automatic,Combustion,Diesel,57,6,7.1,,,258,15
+64,44,BMW SERIE 4 GRAN COUPE,F36 420D 190CH LOUNGE A,1,Automatic,Combustion,Diesel,57,4.7,5.3,,,190,10
+65,45,BMW X3,XDRIVE 2.0 D 190ch,1,Automatic,Combustion,Diesel,67,4.9,5.3,,,190,10
+66,46,BMW X4,F26 XDRIVE 2.0D 190 CH M SPORT A,1,Automatic,Combustion,Diesel,67,4.9,5.6,,,190,10
+67,9,FIAT Tipo Station Wagon (SW),1.6 MULTIJET SS 120 DCT Lounge,0,Automatic,Combustion,Diesel,50,3.9,4.5,,,120,6
+68,14,INFINITI Q50,2.2D PREMIUM 7AT,1,Automatic,Combustion,Diesel,74,4.8,6,,,170,9
+69,47,JAGUAR F-PACE,2.0D 180 CH AWD BVA8,1,Automatic,Combustion,Diesel,60,5.9,5.9,,,180,10
+70,48,LAND ROVER DISCOVERY SPORT MARK,I TD4 180 CH SE A,0,Automatic,Combustion,Diesel,54,5.3,6.3,,,180,10
+71,48,LAND ROVER DISCOVERY SPORT MARK,I TD4 150 CH PURE A,0,Automatic,Combustion,Diesel,54,5.3,6.3,,,150,8
+72,48,LAND ROVER DISCOVERY SPORT MARK,II TD4 180 CH PURE A,0,Automatic,Combustion,Diesel,54,5.3,6.3,,,180,10
+73,49,OPEL INSIGNIA SPORTS TOURER,1.6 CDTI 136 CH ECOFLEX,1,Manual,Combustion,Diesel,70,4.1,4.8,,,136,7
+74,50,PEUGEOT 308 Station Wagon (SW),1.5 BLUEHDI 130,0,Manual,Combustion,Diesel,53,3.7,4.2,,,130,6
+75,50,PEUGEOT 308 Station Wagon (SW),1.5 BLUEHDI 130 BVM6 ALLURE,1,Manual,Combustion,Diesel,53,3.7,4.2,,,130,6
+76,50,PEUGEOT 308 Station Wagon (SW),1.6 BLUEHDI 120,0,Manual,Combustion,Diesel,53,3.3,3.6,,,120,5
+77,50,PEUGEOT 308 Station Wagon (SW),1.6 BLUEHDI 120 EAT6 ALLURE,1,Automatic,Combustion,Diesel,53,4,4.5,,,120,6
+78,51,PEUGEOT 508 Station Wagon (SW),HDI 120 EAT6 BUSINESS,0,Automatic,Combustion,Diesel,53,3.8,4.2,,,120,6
+79,35,VOLKSWAGEN Passat,VIII 2.0 TDI 150ch BMT Carat DSG6 - Tissu,0,Automatic,Combustion,Diesel,66,4.5,5.2,,,150,8
+80,52,VOLKSWAGEN PASSAT Station Wagon (SW),2.0 TDI 150 BMT DSG6 CARAT,1,Automatic,Combustion,Diesel,66,4.6,5.3,,,150,8
+81,37,VOLKSWAGEN TIGUAN,II 2.0 TDI 150ch BMT,0,Manual,Combustion,Diesel,58,4.7,5.7,,,150,8
+82,53,VOLKSWAGEN TIGUAN ALLSPACE,2.0 TDI 150 Business DSG 4MOT,0,Automatic,Combustion,Diesel,60,5.8,6.7,,,150,8
+83,54,VOLKSWAGEN TOURAN,1.6 TDI 115 BMT Business DSG 7,0,Automatic,Combustion,Diesel,58,4.7,5.4,,,150,8
+84,35,VOLKSWAGEN Passat,VIII 1.6 TDI 120ch BMT Carat DSG7,1,Automatic,Combustion,Diesel,59,4.1,4.5,,,120,6
+85,55,SEAT ALHAMBRA,2.0 TDI 184 S&S DSG STYLE ADVANCE,1,Automatic,Combustion,Diesel,70,5.4,6.3,,,184,10
+86,56,HYUNDAI Tucson,1.6 CRDi 136 DCT-7 Business,0,Automatic,Combustion,Diesel,62,4.7,4.8,,,136,7
+87,57,HYUNDAI i30 Station Wagon (SW),1.6 CRDi 115 DCT-7 Business,0,Automatic,Combustion,Diesel,50,4.3,4.7,,,110,6
+88,58,HYUNDAI IONIQ hybrid,Business,0,Automatic,Hybrid,Petrol,45,3.4,3.4,,,105,5
+89,26,OPEL INSIGNIA,2.0 CDTI 170ch BlueInjection ecoFLEX,1,Manual,Combustion,Diesel,70,4.5,5.6,,,170,9
+90,59,SKODA Octavia Combi,1.6 TDI 116ch DSG7,1,Automatic,Combustion,Diesel,50,4,4.2,,,116,5
+91,60,PEUGEOT 5008,"ALLURE 1,5HDI 130CH ETA8",1,Automatic,Combustion,Diesel,56,4,4.3,,,130,6
+92,61,TOYOTA Prius+,,1,Automatic,Hybrid,Petrol,43,3.3,3.3,,,98,4
+93,62,CITROEN C5,115CH EAT6 AIRDREAM,0,Automatic,Combustion,Diesel,70,4.3,4.7,,,115,6
+94,63,CITROEN DS5,SO CHIC 120CH EAT6,0,Automatic,Combustion,Diesel,60,4.3,4.5,,,120,6
+95,63,CITROEN DS5,2.0HDI 180CH ALLURE,0,Automatic,Combustion,Diesel,60,4.4,5.1,,,180,9
+96,35,VOLKSWAGEN Passat,VIII 2.0 TDI 150ch BMT Carat DSG6 - Cuir,1,Automatic,Combustion,Diesel,66,4.5,5.2,,,150,8
+97,64,FORD GRAND C-MAX,Titanium X 120ch,1,Automatic,Combustion,Diesel,60,4.6,5.1,,,120,6
+98,65,FORD S-MAX,Vignale 150ch,1,Automatic,Combustion,Diesel,70,5.5,6.2,,,150,8
+99,13,FORD Focus SW,III 1.5 TDCi 120ch Stop&Start Titanium PowerShift,0,Automatic,Combustion,Diesel,53,3.8,4.2,,,120,6
+100,12,FORD Mondeo Titanium - Tissu,IV 2.0 TDCi 150ch ST-Line PowerShift,0,Automatic,Combustion,Diesel,62,4.9,5.5,,,150,8
+101,11,FORD Mondeo Vignale,IV 2.0 TDCi 150ch ST-Line PowerShift 5p,1,Automatic,Combustion,Diesel,62,4.8,5.4,,,150,8
+102,66,AUDI A6 AVANT,2.0 TDI 190 SLINE STRONIC 7,1,Automatic,Combustion,Diesel,73,4.5,5,,,190,10
+103,5,BMW SERIE 2 GT,F46 218D 150CH PACK GPS A,0,Automatic,Combustion,Diesel,51,4.4,5.1,,,150,8
+104,67,SEAT LEON ST,LEON ST X-PERIENCE 2.0 TDI 150 S&S DSG7 4DRIV,1,Automatic,Combustion,Diesel,55,5.1,6.1,,,150,8
+105,68,TOYOTA RAV4,2.5 HYBRIDE 218 E-CVT COLLECTION,1,Automatic,Hybrid,Petrol,55,4.6,4.4,,,178,9
+106,69,TOYOTA COROLLA,1.8 HYBRIDE 122 DYNAMIC,0,Automatic,Hybrid,Petrol,43,3.3,3.2,,,98,4
+107,70,TOYOTA C-HR,1.8 HYBRIDE 122 e-CVT DYNAMIC,0,Automatic,Hybrid,Petrol,43,3.8,3.4,,,98,4
+108,32,SKODA OCTAVIA,III 2.0 TDI 150 DSG6 BUSINESS,0,Automatic,Combustion,Diesel,50,4.5,5.2,,,150,8
+109,71,RENAULT MEGANE IV ESTATE,1.3 TCE 140 EDC GT LINE,1,Automatic,Combustion,Petrol,50,5.5,7,,,140,7
+110,50,PEUGEOT 308 Station Wagon (SW),31.5 BLUEHDI 130 S&S EAT8 BUSINESS,1,Automatic,Combustion,Diesel,53,3.6,4,,,130,6
+111,13,FORD Focus SW Vignale,IV SW 1.5 ECOBLUE 120 S&S VIGNALE AUTO,1,Automatic,Combustion,Diesel,47,4.4,4.9,,,120,6

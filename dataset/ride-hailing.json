@@ -1,0 +1,258 @@
+[
+  {
+    "id": 1,
+    "name": "Uber",
+    "categories": [
+      {
+        "id": 1,
+        "ridehailingId": 1,
+        "ridehailingName": "Uber",
+        "rank": "1",
+        "name": "uberX",
+        "genericClass": "economic"
+      },
+      {
+        "id": 2,
+        "ridehailingId": 1,
+        "ridehailingName": "Uber",
+        "rank": "2",
+        "name": "uberGREEN",
+        "genericClass": "green"
+      },
+      {
+        "id": 3,
+        "ridehailingId": 1,
+        "ridehailingName": "Uber",
+        "rank": "2",
+        "name": "uberBerline (Black)",
+        "genericClass": "berline"
+      },
+      {
+        "id": 4,
+        "ridehailingId": 1,
+        "ridehailingName": "Uber",
+        "rank": "3",
+        "name": "uberVAN (uberXL)",
+        "genericClass": "van"
+      },
+      {
+        "id": 5,
+        "ridehailingId": 1,
+        "ridehailingName": "Uber",
+        "rank": "6",
+        "name": "uberWAV / ACCESS",
+        "genericClass": "access"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "FREE NOW",
+    "categories": [
+      {
+        "id": 6,
+        "ridehailingId": 2,
+        "ridehailingName": "FREE NOW",
+        "rank": "1",
+        "name": "Eco",
+        "genericClass": "economic"
+      },
+      {
+        "id": 7,
+        "ridehailingId": 2,
+        "ridehailingName": "FREE NOW",
+        "rank": "2",
+        "name": "Berline",
+        "genericClass": "berline"
+      },
+      {
+        "id": 8,
+        "ridehailingId": 2,
+        "ridehailingName": "FREE NOW",
+        "rank": "3",
+        "name": "Van",
+        "genericClass": "van"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Marcel",
+    "categories": [
+      {
+        "id": 9,
+        "ridehailingId": 3,
+        "ridehailingName": "Marcel",
+        "rank": "1",
+        "name": "eco",
+        "genericClass": "green"
+      },
+      {
+        "id": 10,
+        "ridehailingId": 3,
+        "ridehailingName": "Marcel",
+        "rank": "2",
+        "name": "Berline",
+        "genericClass": "economic"
+      },
+      {
+        "id": 11,
+        "ridehailingId": 3,
+        "ridehailingName": "Marcel",
+        "rank": "3",
+        "name": "Business",
+        "genericClass": "berline"
+      },
+      {
+        "id": 12,
+        "ridehailingId": 3,
+        "ridehailingName": "Marcel",
+        "rank": "4",
+        "name": "Van",
+        "genericClass": "van"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "LeCab",
+    "categories": [
+      {
+        "id": 13,
+        "ridehailingId": 4,
+        "ridehailingName": "LeCab",
+        "rank": "1",
+        "name": "minileCab",
+        "genericClass": "economic"
+      },
+      {
+        "id": 14,
+        "ridehailingId": 4,
+        "ridehailingName": "LeCab",
+        "rank": "2",
+        "name": "leCab",
+        "genericClass": "berline"
+      },
+      {
+        "id": 15,
+        "ridehailingId": 4,
+        "ridehailingName": "LeCab",
+        "rank": "3",
+        "name": "Van",
+        "genericClass": "van"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Bolt",
+    "categories": [
+      {
+        "id": 16,
+        "ridehailingId": 5,
+        "ridehailingName": "Bolt",
+        "rank": "1",
+        "name": "Bolt",
+        "genericClass": "economic"
+      },
+      {
+        "id": 17,
+        "ridehailingId": 5,
+        "ridehailingName": "Bolt",
+        "rank": "2",
+        "name": "Green",
+        "genericClass": "green"
+      },
+      {
+        "id": 18,
+        "ridehailingId": 5,
+        "ridehailingName": "Bolt",
+        "rank": "3",
+        "name": "Berline",
+        "genericClass": "berline"
+      },
+      {
+        "id": 19,
+        "ridehailingId": 5,
+        "ridehailingName": "Bolt",
+        "rank": "4",
+        "name": "Van",
+        "genericClass": "van"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "allocab",
+    "categories": [
+      {
+        "id": 20,
+        "ridehailingId": 6,
+        "ridehailingName": "allocab",
+        "rank": "1",
+        "name": "Berline",
+        "genericClass": "economic"
+      },
+      {
+        "id": 21,
+        "ridehailingId": 6,
+        "ridehailingName": "allocab",
+        "rank": "2",
+        "name": "Berline Affaires",
+        "genericClass": "berline"
+      },
+      {
+        "id": 22,
+        "ridehailingId": 6,
+        "ridehailingName": "allocab",
+        "rank": "3",
+        "name": "Van",
+        "genericClass": "van"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Heetch",
+    "categories": [
+      {
+        "id": 23,
+        "ridehailingId": 7,
+        "ridehailingName": "Heetch",
+        "rank": "1",
+        "name": "Heetch",
+        "genericClass": "economic"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "eurecab",
+    "categories": [
+      {
+        "id": 24,
+        "ridehailingId": 8,
+        "ridehailingName": "eurecab",
+        "rank": "1",
+        "name": "Economique",
+        "genericClass": "economic"
+      },
+      {
+        "id": 25,
+        "ridehailingId": 8,
+        "ridehailingName": "eurecab",
+        "rank": "2",
+        "name": "Affaires",
+        "genericClass": "berline"
+      },
+      {
+        "id": 26,
+        "ridehailingId": 8,
+        "ridehailingName": "eurecab",
+        "rank": "3",
+        "name": "Van",
+        "genericClass": "van"
+      }
+    ]
+  }
+]

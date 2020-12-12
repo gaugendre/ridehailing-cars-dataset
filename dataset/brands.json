@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "name": "ALFA ROMEO",
+    "slug": "alfa-romeo"
+  },
+  {
+    "id": 2,
+    "name": "AUDI",
+    "slug": "audi"
+  },
+  {
+    "id": 3,
+    "name": "BMW",
+    "slug": "bmw"
+  },
+  {
+    "id": 23,
+    "name": "CITROEN",
+    "slug": "citroen"
+  },
+  {
+    "id": 4,
+    "name": "FIAT",
+    "slug": "fiat"
+  },
+  {
+    "id": 5,
+    "name": "FORD",
+    "slug": "ford"
+  },
+  {
+    "id": 22,
+    "name": "HYUNDAI",
+    "slug": "hyundai"
+  },
+  {
+    "id": 6,
+    "name": "INFINITI",
+    "slug": "infiniti"
+  },
+  {
+    "id": 7,
+    "name": "JAGUAR",
+    "slug": "jaguar"
+  },
+  {
+    "id": 8,
+    "name": "LAND ROVER",
+    "slug": "land-rover"
+  },
+  {
+    "id": 9,
+    "name": "LEXUS",
+    "slug": "lexus"
+  },
+  {
+    "id": 10,
+    "name": "MAZDA",
+    "slug": "mazda"
+  },
+  {
+    "id": 11,
+    "name": "MERCEDES",
+    "slug": "mercedes"
+  },
+  {
+    "id": 12,
+    "name": "NISSAN",
+    "slug": "nissan"
+  },
+  {
+    "id": 13,
+    "name": "OPEL",
+    "slug": "opel"
+  },
+  {
+    "id": 14,
+    "name": "PEUGEOT",
+    "slug": "peugeot"
+  },
+  {
+    "id": 15,
+    "name": "RENAULT",
+    "slug": "renault"
+  },
+  {
+    "id": 21,
+    "name": "SEAT",
+    "slug": "seat"
+  },
+  {
+    "id": 16,
+    "name": "SKODA",
+    "slug": "skoda"
+  },
+  {
+    "id": 17,
+    "name": "TESLA",
+    "slug": "tesla"
+  },
+  {
+    "id": 18,
+    "name": "TOYOTA",
+    "slug": "toyota"
+  },
+  {
+    "id": 19,
+    "name": "VOLKSWAGEN",
+    "slug": "volkswagen"
+  },
+  {
+    "id": 20,
+    "name": "VOLVO",
+    "slug": "volvo"
+  }
+]

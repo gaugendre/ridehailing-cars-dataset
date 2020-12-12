@@ -1,0 +1,27 @@
+id,ridehailingId,ridehailingName,rank,name,genericClass
+1,1,Uber,1,uberX,economic
+2,1,Uber,2,uberGREEN,green
+3,1,Uber,2,uberBerline (Black),berline
+4,1,Uber,3,uberVAN (uberXL),van
+5,1,Uber,6,uberWAV / ACCESS,access
+6,2,FREE NOW,1,Eco,economic
+7,2,FREE NOW,2,Berline,berline
+8,2,FREE NOW,3,Van,van
+9,3,Marcel,1,eco,green
+10,3,Marcel,2,Berline,economic
+11,3,Marcel,3,Business,berline
+12,3,Marcel,4,Van,van
+13,4,LeCab,1,minileCab,economic
+14,4,LeCab,2,leCab,berline
+15,4,LeCab,3,Van,van
+16,5,Bolt,1,Bolt,economic
+17,5,Bolt,2,Green,green
+18,5,Bolt,3,Berline,berline
+19,5,Bolt,4,Van,van
+20,6,allocab,1,Berline,economic
+21,6,allocab,2,Berline Affaires,berline
+22,6,allocab,3,Van,van
+23,7,Heetch,1,Heetch,economic
+24,8,eurecab,1,Economique,economic
+25,8,eurecab,2,Affaires,berline
+26,8,eurecab,3,Van,van
